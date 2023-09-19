@@ -1,5 +1,5 @@
-# ERROR-404
+# ERROR-404 E-Commerce Website
 
-~ Sanchit Verma
+~ Sanchit Kumar
 https://github.com/Sanchitv3/
-https://instagram.com/sanchit.verma_/
+https://www.linkedin.com/in/sanchit-kumar-52397b287/
